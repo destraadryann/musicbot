@@ -1,9 +1,9 @@
-<h1><p align="center"><a>𝙈𝙐𝙎𝙄𝙆  𝙆𝙐</a><p/><h1/>
-<p align="center"><a href="https://github.com/kenkansaja/Musikku"><img src="https://telegra.ph/file/7286ea5b5a2f8dc66e3ed.jpg"width="300"heigh="100" /></a></p>
+<h1><p align="center"><a>𝗠𝗨𝗦𝗜𝗞 𝗕𝗢𝗧</a><p/><h1/>
+<p align="center"><a href="https://github.com/destraadryann/musicbot"><img src="https://telegra.ph/file/7286ea5b5a2f8dc66e3ed.jpg"width="300"heigh="100" /></a></p>
 
 
 
-ᴍᴜsɪᴋ  ᴋᴜ  ᴀᴅᴀʟᴀʜ  ʀᴇᴘᴏ  ᴄʟᴏɴᴇ  ᴅᴀʀɪ  [ʏᴜᴋᴋɪᴍᴜsɪᴄʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)  ᴛᴀᴘɪ  ʏᴀɴɢ  sᴜᴅᴀʜ  ᴅɪ  ʙᴀʜᴀsᴀ  ɪɴᴅᴏɴᴇsɪᴀᴋᴀɴ  ᴏʟᴇʜ  sᴀʏᴀ,  sᴀʏᴀ  ᴀᴅᴀʟᴀʜ  ᴋᴀɴɢᴇʀ  ʙᴜᴋᴀɴ  ᴄᴏᴅᴇʀ  ᴅᴀɴ  sᴀʏᴀ  ᴍᴀsɪʜ  ᴀᴍᴀᴛɪʀᴀɴ  ᴏᴋᴇʏ
+Musik Bot Adalah Repo Clone Dari [ʏᴜᴋᴋɪᴍᴜsɪᴄʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot) Tapi Yang Sudah Di Bahasa Indonesiakan Oleh Saya, Saya Adalah Kanger Bukam Coder Dan Saya Masih Amatiran 
 
 ## DEPLOY DI HEROKU
 
